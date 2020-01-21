@@ -1,7 +1,34 @@
 .bg-teal{
     background-color: #29c7b2;
+    border: 0;
+    color: white;
 }
 
 .tc-teal{
     color: #29c7b2;
+}
+
+.portfolio-link{
+    position: relative;
+    height: 200px;
+    width: 250px;
+}
+
+.image{
+    height: 200px;
+    width: 250px;
+}
+
+.banner{
+    position: absolute;
+    width: 250px;
+    height: 50px;
+    left: 16px;
+    bottom: 0;
+    text-align: center;
+    
+}
+
+.image-text{
+    padding-top: 5%;
 }
