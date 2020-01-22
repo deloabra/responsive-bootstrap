@@ -33,3 +33,11 @@
 .image-text{
     padding-top: 5%;
 }
+
+footer{
+    position: absolute;
+    bottom: 0;
+    padding: 0;
+    height: 5%;
+    width: 100%;
+}
